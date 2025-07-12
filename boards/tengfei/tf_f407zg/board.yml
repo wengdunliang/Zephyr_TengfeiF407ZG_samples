@@ -1,0 +1,6 @@
+board:
+  name: tf_f407zg
+  full_name: TengFei STM32F407ZGT6
+  vendor: TengFei
+  socs:
+    - name: stm32f407xx
